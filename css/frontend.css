@@ -1,0 +1,50 @@
+
+/***************************************************İNDEX HTML*****************************************************************************/
+
+.baslik { 
+    text-align: center;
+    padding: auto;      
+    margin:auto;
+    font-family: sans-serif;
+    color: #a97128;
+}
+
+.baslik li {
+    list-style-position: inside;
+    display: inline-block;
+    padding-left: 15px; 
+    color: black;
+}
+.anasayfa1 ul li {
+    font-family: sans-serif;
+    color: black;
+}
+
+/**********************************************************MENU HTML***********************************************************************************/
+
+.h1menu {
+    text-align: center;
+    font-family: sans-serif;
+    color: #a97128;
+}
+.menu {
+   text-align: center;
+
+}
+.altmetin {
+    font-family: sans-serif;
+    text-align: center;
+    color: #a97128;
+}
+/************************************************************CONTACT HTML***************************************************************************************/
+.iletisim {
+    font-family: sans-serif;
+    color: #a97128;
+    
+}
+
+/*****************************************************************ABOUST US HTML**********************************************************************************/
+.about {
+    font-family: sans-serif;
+    color: #6a3f06;
+}
